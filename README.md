@@ -7,6 +7,6 @@
 - 🔭 I’m currently working on security
 - 🌱 I’m currently learning Code audit
 - 💬 Ask me about https://hellohy.top
-- 📫 How to reach me: https://hellohy.top
+- 📫 How to reach me: hua.yang.zai@qq.com
 - 😄 Pronouns: control
 - ⚡ Fun fact: 感天地之规律，享世间之无穷
