@@ -1,6 +1,6 @@
 # Hi there 👋
-<img src="https://hellohy.top/wp-content/uploads/2021/05/1620561174297-809x1024.jpg" width="500" height="500">
-<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=light-Life&show_icons=true&hide_border=true&hide=prs&theme=jolly">
+<img src="https://hellohy.top/wp-content/uploads/2021/05/1620561174297-809x1024.jpg" width="500" height="500"><img src="https://github-readme-stats-mrdulin.vercel.app/api?username=light-Life&show_icons=true&hide_border=true&hide=prs&theme=jolly">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-Life&layout=compact&hide_border=true&theme=buefy&show_icons=true">
 
 
