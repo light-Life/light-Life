@@ -1,5 +1,5 @@
 # Hi there 👋
-<img src="https://hellohy.top/wp-content/uploads/2021/05/三个可爱动漫女生马尾辫红眼睛裙子4k壁纸_彼岸图网-1024x576.jpg" width="800" height="400"><img src="https://github-readme-stats-mrdulin.vercel.app/api?username=light-Life&show_icons=true&hide_border=true&hide=prs&theme=jolly"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-Life&layout=compact&hide_border=true&theme=buefy&show_icons=true">
+<img src="https://hellohy.top/wp-content/uploads/2021/05/三个可爱动漫女生马尾辫红眼睛裙子4k壁纸_彼岸图网-1024x576.jpg" width="900" height="500"><img src="https://github-readme-stats-mrdulin.vercel.app/api?username=light-Life&show_icons=true&hide_border=true&hide=prs&theme=jolly"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-Life&layout=compact&hide_border=true&theme=buefy&show_icons=true">
 
 
 
