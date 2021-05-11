@@ -1,7 +1,6 @@
 # Hi there 👋
 <img src="https://hellohy.top/wp-content/uploads/2021/05/三个可爱动漫女生马尾辫红眼睛裙子4k壁纸_彼岸图网-1024x576.jpg" width="900" height="480">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical">    <img  alt="light-Life's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/light-Life?cardType=github&theme=radical" />  </a>
-<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=light-Life&show_icons=true&hide_border=true&theme=buefy&bg_color=DEG,COLOR1,COLOR2,COLOR3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-Life&layout=compact&hide_border=true&theme=buefy&show_icons=true">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical">    <img  alt="light-Life's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/light-Life?cardType=github&theme=radical" />  </a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-Life&layout=compact&hide_border=true&theme=buefy&show_icons=true">
 
 
 
